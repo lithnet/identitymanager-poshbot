@@ -5,9 +5,15 @@ Lithnet PoshBot Plugins for Microsoft Identity Manager enable ChatOps to the Mic
 [PoshBot](https://github.com/poshbotio/PoshBot) is a chat bot written in PowerShell. It makes extensive use of classes introduced in PowerShell 5.0. PowerShell modules are loaded into PoshBot and instantly become available as bot commands. PoshBot currently supports connecting to Slack & Microsoft Teams to provide you with awesome ChatOps goodness.
 
 ## LithnetMIISAutomation for PoshBot
+
+[![PSGallery Version](https://img.shields.io/powershellgallery/v/PoshBot.LithnetMiisAutomation.svg?style=flat&logo=powershell&label=PSGallery%20Version)](https://www.powershellgallery.com/packages/PoshBot.LithnetMiisAutomation) [![PSGallery Downloads](https://img.shields.io/powershellgallery/dt/PoshBot.LithnetMiisAutomation.svg?style=flat&logo=powershell&label=PSGallery%20Downloads)](https://www.powershellgallery.com/packages/PoshBot.LithnetMiisAutomation)
+
 PoshBot.LithnetMIISAutomation is the PoshBot Plugin for the Microsoft Identity Manager Sync Server (MetaVerse).
 
 ## LithnetRMA for PoshBot
+
+[![PSGallery Version](https://img.shields.io/powershellgallery/v/PoshBot.LithnetRMA.svg?style=flat&logo=powershell&label=PSGallery%20Version)](https://www.powershellgallery.com/packages/PoshBot.LithnetRMA) [![PSGallery Downloads](https://img.shields.io/powershellgallery/dt/PoshBot.LithnetRMA.svg?style=flat&logo=powershell&label=PSGallery%20Downloads)](https://www.powershellgallery.com/packages/PoshBot.LithnetRMA)
+
 PoshBot.LithnetRMA is the PoshBot Plugin for the Microsoft Identity Manager Service Server.
 
 ![](https://i0.wp.com/blog.darrenjrobinson.com/wp-content/uploads/2019/08/ChatOps-for-Microsoft-Identity-Manager-Overview.png?zoom=4.5&resize=524%2C352&ssl=1)
