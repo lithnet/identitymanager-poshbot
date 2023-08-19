@@ -38,7 +38,6 @@ or download from the [PowerShell Gallery](https://www.powershellgallery.com/pack
 ## How can I contribute to the project?
 * Found an issue and want us to fix it? [Log it](https://github.com/lithnet/identitymanager-poshbot/issues)
 * Want to fix an issue yourself or add functionality? Clone the project and submit a pull request
-* Make a [donation](https://lithnet.io/donate) and help us cover our costs
 
 ## Full Configuration Details
 Full Configuration Details are in [this blogpost](https://blog.darrenjrobinson.com/chatops-for-microsoft-identity-manager/)
